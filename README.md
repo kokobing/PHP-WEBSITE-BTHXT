@@ -6,6 +6,7 @@ A complete enterprise website, including the Frontend and Backend admin page.  i
 PHP-WEBSITE-BTHXT 一个完整的中英文双语企业网站，包括前台后台，因为项目生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
 站点前后端未用任何MVC框架、未用任何第三方CMS系统，不存在复杂的一堆看不明白的代码，全程序均手写，非常适合PHP初学者入门。  
 
+这是我在2008、2009年开发的一个模板网站，记得在淘宝上卖680一条龙的，当时效果还挺好。
 ****
 ![](https://github.com/Kokolpb/PHP-WEBSITE-BTHXT/blob/master/home.jpg)  
 
